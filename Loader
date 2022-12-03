@@ -1,0 +1,7 @@
+local id = game.GameId
+if id == "8884043854" then -- Fortblox 
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/MidnightProjectRBX/Midnight-Hub/main/FortBlox"))()
+end
+if Id == "23578803" then -- Hotel Elephant
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MidnightProjectRBX/Midnight-Hub/main/ HotelElephant"))()
+end
